@@ -1,0 +1,22 @@
+2026-10-01T15:29:55 - Creados turnos 1, 2, 3
+2026-10-01T15:29:55 - Llamado turno 1
+2026-10-01T15:29:55 - Atendido turno 1
+2026-10-01T22:18:39 - Creados turnos 4, 5, 6
+2026-10-01T22:18:40 - Llamado turno 2
+2026-10-01T22:18:40 - Atendido turno 2
+2026-10-01T22:19:58 - Aplicación gráfica iniciada
+2026-10-01T22:20:08 - Creado turno 7
+2026-10-01T22:20:20 - Llamado turno 3
+2026-10-01T22:20:47 - Atendido turno 3
+2026-10-01T22:28:57 - Aplicación gráfica iniciada
+2026-10-01T22:29:02 - Creado turno 8
+2026-10-01T22:29:03 - Creado turno 9
+2026-10-01T22:29:03 - Creado turno 10
+2026-10-01T22:29:03 - Creado turno 11
+2026-10-01T22:29:03 - Creado turno 12
+2026-10-01T22:29:03 - Creado turno 13
+2026-10-01T22:29:04 - Creado turno 14
+2026-10-01T22:29:04 - Creado turno 15
+2026-10-01T22:29:04 - Creado turno 16
+2026-10-01T22:29:04 - Creado turno 17
+2026-10-01T22:32:06 - Aplicación gráfica iniciada
